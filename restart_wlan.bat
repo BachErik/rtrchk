@@ -1,0 +1,1 @@
+PowerShell.exe -ExecutionPolicy Bypass -File "C:\rtrchk\restart_wlan.ps1"

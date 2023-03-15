@@ -1,0 +1,1 @@
+PowerShell.exe -ExecutionPolicy Bypass -File "C:\rtrchk\ping_wlan.ps1"
