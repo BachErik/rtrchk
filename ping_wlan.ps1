@@ -1,4 +1,4 @@
-$targets = 'o2.box', 'google.de', 'google.com', 'bacherik.be', 'bacherik.de', 'twitch.tv', 'youtube.com', 'discord.gg'
+$targets = 'o2.box', 'google.de', 'google.com', 'bacherik.be', 'bacherik.de', '45.142.115.165', 'twitch.tv', 'youtube.com', 'discord.gg'
 $adapterName = 'WLAN'
 $pingTimeout = 1000 #ms
 $checkInterval = 5 #sec
